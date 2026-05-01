@@ -1,0 +1,167 @@
+{
+    "category": "heraldry",
+    "category_name": "Heraldry",
+    "collection": "ch_cantons",
+    "collection_name": "Cantons of Switzerland",
+    "prefix": "ch",
+    "resolution": "30x30",
+    "chafa_args": "--symbols=block",
+    "items": [
+        {
+            "id": "AG",
+            "name": "Aargau",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Aargau_matt.svg"
+        },
+        {
+            "id": "AR",
+            "name": "Appenzell Ausserrhoden",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Appenzell_Ausserrhoden_matt.svg"
+        },
+        {
+            "id": "AI",
+            "name": "Appenzell Innerrhoden",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Appenzell_Innerrhoden_matt.svg"
+        },
+        {
+            "id": "BL",
+            "name": "Basel-Landschaft",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Basel-Landschaft_matt.svg"
+        },
+        {
+            "id": "BS",
+            "name": "Basel-Stadt",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Basel-Stadt_matt.svg"
+        },
+        {
+            "id": "BE",
+            "name": "Bern",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Bern_matt.svg"
+        },
+        {
+            "id": "FR",
+            "name": "Freiburg",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Freiburg_matt.svg"
+        },
+        {
+            "id": "GE",
+            "name": "Geneva",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Genf_matt.svg"
+        },
+        {
+            "id": "GL",
+            "name": "Glarus",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Glarus_matt.svg"
+        },
+        {
+            "id": "GR",
+            "name": "Graubünden",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Graubünden_matt.svg"
+        },
+        {
+            "id": "JU",
+            "name": "Jura",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Jura_matt.svg"
+        },
+        {
+            "id": "LU",
+            "name": "Luzern",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Luzern_matt.svg"
+        },
+        {
+            "id": "NE",
+            "name": "Neuchâtel",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Neuenburg_matt.svg"
+        },
+        {
+            "id": "NW",
+            "name": "Nidwalden",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Nidwalden_matt.svg"
+        },
+        {
+            "id": "OW",
+            "name": "Obwalden",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Obwalden_matt.svg"
+        },
+        {
+            "id": "SH",
+            "name": "Schaffhausen",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Schaffhausen_matt.svg"
+        },
+        {
+            "id": "SZ",
+            "name": "Schwyz",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Schwyz_matt.svg"
+        },
+        {
+            "id": "SO",
+            "name": "Solothurn",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Solothurn_matt.svg"
+        },
+        {
+            "id": "SG",
+            "name": "St. Gallen",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_St._Gallen_matt.svg"
+        },
+        {
+            "id": "TG",
+            "name": "Thurgau",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Thurgau_matt.svg"
+        },
+        {
+            "id": "TI",
+            "name": "Ticino",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Tessin_matt.svg"
+        },
+        {
+            "id": "UR",
+            "name": "Uri",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Uri_matt.svg"
+        },
+        {
+            "id": "VD",
+            "name": "Vaud",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Waadt_matt.svg"
+        },
+        {
+            "id": "VS",
+            "name": "Valais",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Wallis_matt.svg"
+        },
+        {
+            "id": "ZG",
+            "name": "Zug",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Zug_matt.svg"
+        },
+        {
+            "id": "ZH",
+            "name": "Zürich",
+            "source_type": "wikimedia",
+            "source_path": "Wappen_Zürich_matt.svg"
+        }
+    ]
+}
