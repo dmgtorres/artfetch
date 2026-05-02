@@ -5,7 +5,7 @@
     "collection_name": "Cantons of Switzerland",
     "prefix": "ch",
     "resolution": "30x30",
-    "chafa_args": "--symbols=block",
+    "rendering_options": "--symbols=block",
     "items": [
         {
             "id": "AG",
